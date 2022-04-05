@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(255, 254, 169);
+}
+
+.TítulosPrincipais{
+    color: orange;  
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.Títulos{
+    color: orange;
+    font-size: 30px;
+}
+
+#Manutenção{
+    color: rgb(1, 1, 105);
+    font-size: 30px;
+}
+
+table.Tabela{
+    border: 1px solid orange;
+    border-radius: 5px;
+    font-family: Arial;
+    font-size: 15px;
+}
+
+table.Tabela td{
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+table.Tabela th{
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+
+#Logo{
+    border: 1px solid red;
+    border-radius: 5px;
+    width: 99.7%;
+    height: 605px;
+}
+
+.BandeiraJapão{
+    height: 45px
+}
